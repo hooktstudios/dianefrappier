@@ -1,0 +1,13 @@
+<?
+require_once "includes/header.php";
+?>
+
+<h2>Pour nous joindre </h2>
+<p><strong>DIANE FRAPPIER</strong><strong> ET ASSOCI&Eacute;S</strong><br />
+   Cabinet en  gestion<br /> 266 C&ocirc;te  Ste Anne<br /> Sainte-Anne-de-Beaupr&eacute;,<br /> GOA 3C0.</p>
+<p>Num&eacute;ro du  certificat d&rsquo;agr&eacute;ment <strong>Emploi Qu&eacute;bec : 0040142</strong></p>
+<p><strong>DIANE FRAPPIER</strong><strong>,&nbsp; Pr&eacute;sidente</strong><strong><br /></strong>T&eacute;l&eacute;phone&nbsp;: 418-827-1731<br /> Cellulaire&nbsp;: 418-569-6425<br /> T&eacute;l&eacute;copieur&nbsp;: 418-827-6840</p>
+<p>Courriel&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:diane.frappier@hotmail.com">diane.frappier@hotmail.com</a></p>
+<?
+require_once "includes/footer.php";
+?>

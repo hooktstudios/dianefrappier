@@ -1,0 +1,19 @@
+<?
+require_once "includes/header.php";
+?>
+
+<h2>Conf&eacute;rences&nbsp;: congr&egrave;s, associations, colloques </h2>
+<ul>
+  <li>Minimiser  ses risques en &eacute;laborant un bon plan strat&eacute;gique. <em>Infonex</em></li>
+  <li>Optimisation  des processus, <em>MQQ</em></li>
+  <li>Efficacit&eacute;  organisationnelle et efficacit&eacute; op&eacute;rationnelle, <em>Desjardins</em></li>
+  <li>Communication  &eacute;nergisante et motivation, <em>MELS</em></li>
+  <li>Comment  g&eacute;rer votre processus de gestion des plaintes, <em>MQQ</em></li>
+  <li>Le  moment de v&eacute;rit&eacute;&nbsp;: organisation &ndash; client, <em>MQQ</em></li>
+  <li>Mettez  sur pied des indicateurs de performance et mesurez la valeur de votre processus  de gestion des plaintes.<em> I.I.R.</em></li>
+  <li>Int&eacute;gration  des indicateurs de performance au processus d&rsquo;entreprise <em>MQQ</em></li>
+</ul>
+<p>Les  consultants de Diane   Frappier et Associ&eacute;s sont reconnus pour leurs talents  d&rsquo;orateurs et sont r&eacute;guli&egrave;rement sollicit&eacute;s pour aller donner des conf&eacute;rences. &nbsp;Ces derni&egrave;res vous ouvriront vers de nouveaux  horizons.</p>
+<?
+require_once "includes/footer.php";
+?>
