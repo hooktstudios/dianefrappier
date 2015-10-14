@@ -1,0 +1,8 @@
+gems:
+  - jekyll-redirect-from
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
